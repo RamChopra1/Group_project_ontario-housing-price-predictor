@@ -1,0 +1,7571 @@
+[
+  {
+    "homeData": {
+      "propertyId": "150783593",
+      "listingId": "207111184",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12373189",
+      "url": "/on/mono/5-Skelton-St-L9W-2Z2/home/150783593",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1,
+        "hasVirtualTour": true
+      },
+      "propertyType": 6,
+      "beds": 5,
+      "baths": 4.0,
+      "priceInfo": {
+        "amount": "1540000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1540000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "2"
+          },
+          {
+            "startPos": 1,
+            "endPos": 48,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-09-02T21:31:54.637Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "922",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "SEP 17, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        },
+        {
+          "sashTypeId": 32,
+          "sashTypeName": "Video Tour",
+          "sashTypeColor": "#7556F2"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-09-17T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 4.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9352136,
+            "longitude": -80.0649737
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "5 Skelton St",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 6W8",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "150800861",
+      "listingId": "200627765",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12033397",
+      "url": "/on/mono/675231-Hurontario-St-L9W-0P1/home/150800861",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 3,
+      "baths": 2.0,
+      "priceInfo": {
+        "amount": "1295000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1295000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "3"
+          },
+          {
+            "startPos": 1,
+            "endPos": 46,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-03-21T05:03:19.857Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "1133431",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "MAY 17, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-05-17T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 2.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 44.0504084,
+            "longitude": -80.1114786
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "675231 Hurontario St",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 5S2",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "150801815",
+      "listingId": "204334117",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12223666",
+      "url": "/on/mono/6-Pineview-Rd-L9W-3R3/home/150801815",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 5,
+      "baths": 4.0,
+      "priceInfo": {
+        "amount": "1575000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1575000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "2"
+          },
+          {
+            "startPos": 1,
+            "endPos": 45,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-06-16T16:56:22.728Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "54",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "AUG 9, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-08-09T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 4.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9258159,
+            "longitude": -80.0729279
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "6 Pineview Rd",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 4A1",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "150810513",
+      "listingId": "203707924",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12207243",
+      "url": "/on/mono/200-Kingfisher-Dr-L9W-0B3/unit-130/home/150810513",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 4,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "1130000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1130000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "3"
+          },
+          {
+            "startPos": 1,
+            "endPos": 41,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-06-09T17:27:02.870Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "SEP 22, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-09-22T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9409939,
+            "longitude": -80.1099161
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "200 Kingfisher Dr #130",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 0B3",
+        "location": "Mono",
+        "unitNumber": "#130",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "150810579",
+      "listingId": "201408483",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12079189",
+      "url": "/on/mono/200-Kingfisher-Dr-L9W-0B3/unit-162/home/150810579",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1,
+        "hasVirtualTour": true
+      },
+      "propertyType": 6,
+      "beds": 2,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "1179000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1179000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "2"
+          },
+          {
+            "startPos": 1,
+            "endPos": 34,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-04-12T11:17:08.830Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "APR 26, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        },
+        {
+          "sashTypeId": 32,
+          "sashTypeName": "Video Tour",
+          "sashTypeColor": "#7556F2"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-04-26T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9409939,
+            "longitude": -80.1099161
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "200 Kingfisher Dr #162",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L0N 1N0",
+        "location": "Mono",
+        "unitNumber": "#162",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "150810842",
+      "listingId": "202193665",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12119042",
+      "url": "/on/mono/200-Kingfisher-Dr-L9W-0B3/unit-155/home/150810842",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 3,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "1225000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1225000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "3"
+          },
+          {
+            "startPos": 1,
+            "endPos": 44,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-05-02T13:24:32.349Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "SEP 26, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-09-26T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9409939,
+            "longitude": -80.1099161
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "200 Kingfisher Dr #155",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 0B3",
+        "location": "Mono",
+        "unitNumber": "#155",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "150810886",
+      "listingId": "206476624",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12350211",
+      "url": "/on/mono/200-Kingfisher-Dr-L9W-0B3/unit-174/home/150810886",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 3,
+      "beds": 4,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "1145000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1145000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 32,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-08-18T15:21:17.625Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "amount": "306",
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "SEP 14, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-09-14T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9409939,
+            "longitude": -80.1099161
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "200 Kingfisher Dr #174",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 0B3",
+        "location": "Mono",
+        "unitNumber": "#174",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "150811022",
+      "listingId": "206497652",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12351645",
+      "url": "/on/mono/200-Kingfisher-Dr-L9W-0B3/unit-113/home/150811022",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1,
+        "hasVirtualTour": true
+      },
+      "propertyType": 6,
+      "beds": 2,
+      "baths": 2.0,
+      "priceInfo": {
+        "amount": "1325000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1325000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "3"
+          },
+          {
+            "startPos": 1,
+            "endPos": 46,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-08-19T01:30:59.165Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "4701",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "AUG 25, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        },
+        {
+          "sashTypeId": 32,
+          "sashTypeName": "Video Tour",
+          "sashTypeColor": "#7556F2"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-08-25T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 2.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9409939,
+            "longitude": -80.1099161
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "200 Kingfisher Dr #113",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 0B3",
+        "location": "Mono",
+        "unitNumber": "#113",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "150884863",
+      "listingId": "212607413",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12833282",
+      "url": "/on/mono/26-Island-Lake-Rd-L9W-5K3/home/150884863",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 4,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "1275000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1275000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2026-03-02T15:03:06.089Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "28549",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "MAR 19, 2026",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2026-03-19T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9339795,
+            "longitude": -80.0683443
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "26 Island Lake Rd",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 5K3",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "150886761",
+      "listingId": "205132709",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12267545",
+      "url": "/on/mono/1-Pineview-Rd-L9W-4A1/home/150886761",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 6,
+      "baths": 5.0,
+      "priceInfo": {
+        "amount": "1925000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1925000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "3"
+          },
+          {
+            "startPos": 1,
+            "endPos": 34,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-07-07T16:02:01.226Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "26162",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "DEC 17, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-12-17T08:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 5.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9251,
+            "longitude": -80.07311
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "1 Pineview Rd",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 4A1",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "150906266",
+      "listingId": "212858890",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12863552",
+      "url": "/on/mono/8-Madill-Dr-L9W-2Z1/home/150906266",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 4,
+      "baths": 4.0,
+      "priceInfo": {
+        "amount": "1250000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1250000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "4"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2026-03-09T20:21:54.370Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "27931",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "MAR 18, 2026",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2026-03-18T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 4.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9983099,
+            "longitude": -80.11923
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "8 Madill Dr",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 6G3",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "150949213",
+      "listingId": "199901341",
+      "listingDisplayLevel": 1,
+      "mlsId": "X11986797",
+      "url": "/on/mono/49-Benson-Ave-L9W-2Z2/home/150949213",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1,
+        "hasVirtualTour": true
+      },
+      "propertyType": 6,
+      "beds": 6,
+      "baths": 5.0,
+      "priceInfo": {
+        "amount": "1560000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1560000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "C"
+          },
+          {
+            "startPos": 1,
+            "endPos": 39,
+            "version": "A"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-02-25T14:11:31.213Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "7485",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "APR 24, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        },
+        {
+          "sashTypeId": 32,
+          "sashTypeName": "Video Tour",
+          "sashTypeColor": "#7556F2"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-04-24T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 5.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.932044,
+            "longitude": -80.0591241
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "49 Benson Ave",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 6T5",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "150958520",
+      "listingId": "192308611",
+      "listingDisplayLevel": 1,
+      "mlsId": "X9256939",
+      "url": "/on/mono/9-Blue-Heron-Dr-L9W-5K6/home/150958520",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1,
+        "hasVirtualTour": true
+      },
+      "propertyType": 6,
+      "beds": 6,
+      "baths": 4.0,
+      "priceInfo": {
+        "amount": "2075000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "2075000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 39,
+            "version": "3"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2024-08-15T22:51:44Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "31151",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "APR 22, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        },
+        {
+          "sashTypeId": 32,
+          "sashTypeName": "Video Tour",
+          "sashTypeColor": "#7556F2"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-04-22T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 4.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9388659,
+            "longitude": -80.0702962
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "9 Blue Heron Dr",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 5K6",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "150961176",
+      "listingId": "197893498",
+      "listingDisplayLevel": 1,
+      "mlsId": "X11904092",
+      "url": "/on/mono/346398-Mono-Centre-Rd-L9W-6S1/home/150961176",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 4,
+      "baths": 4.0,
+      "priceInfo": {
+        "amount": "1850000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1850000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "5"
+          },
+          {
+            "startPos": 1,
+            "endPos": 38,
+            "version": "4"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-01-03T18:59:46.844Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "APR 25, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-04-25T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 4.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 44.0016864,
+            "longitude": -80.1041969
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "346398 Mono Centre Rd",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 6S1",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "151069775",
+      "listingId": "203455593",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12197844",
+      "url": "/on/mono/29-Meek-Ave-L9W-6W8/home/151069775",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1,
+        "hasVirtualTour": true
+      },
+      "propertyType": 6,
+      "beds": 5,
+      "baths": 4.0,
+      "priceInfo": {
+        "amount": "2150000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "2150000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "2"
+          },
+          {
+            "startPos": 1,
+            "endPos": 49,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-06-05T13:37:07.026Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "23301",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "JUN 18, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        },
+        {
+          "sashTypeId": 32,
+          "sashTypeName": "Video Tour",
+          "sashTypeColor": "#7556F2"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-06-18T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 4.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9363438,
+            "longitude": -80.0652356
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "29 Meek Ave",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 6W8",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "151069854",
+      "listingId": "203448979",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12197358",
+      "url": "/on/mono/22-Stonegate-Ave-L9W-5K6/home/151069854",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1,
+        "hasVirtualTour": true
+      },
+      "propertyType": 6,
+      "beds": 5,
+      "baths": 5.0,
+      "priceInfo": {
+        "amount": "1700000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1700000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "3"
+          },
+          {
+            "startPos": 1,
+            "endPos": 43,
+            "version": "2"
+          },
+          {
+            "startPos": 44,
+            "endPos": 44,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-06-05T04:32:13.841Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "10780",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "AUG 28, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        },
+        {
+          "sashTypeId": 32,
+          "sashTypeName": "Video Tour",
+          "sashTypeColor": "#7556F2"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-08-28T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 5.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9332229,
+            "longitude": -80.0633149
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "22 Stonegate Ave",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 6X1",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "151070150",
+      "listingId": "209664547",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12594198",
+      "url": "/on/mono/12-Bayberry-Rd-L9V-1A2/home/151070150",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1,
+        "hasVirtualTour": true
+      },
+      "propertyType": 6,
+      "beds": 7,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "1600000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1600000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-12-02T16:41:18.541Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "23021",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "APR 9, 2026",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        },
+        {
+          "sashTypeId": 32,
+          "sashTypeName": "Video Tour",
+          "sashTypeColor": "#7556F2"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2026-04-09T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9488299,
+            "longitude": -80.1127162
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "12 Bayberry Rd",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 6G6",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "151074831",
+      "listingId": "206801749",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12357520",
+      "url": "/on/mono/200-Kingfisher-Dr-L9W-0B3/unit-157/home/151074831",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1,
+        "hasVirtualTour": true
+      },
+      "propertyType": 6,
+      "beds": 2,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "1160000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1160000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "5"
+          },
+          {
+            "startPos": 1,
+            "endPos": 31,
+            "version": "4"
+          },
+          {
+            "startPos": 32,
+            "endPos": 43,
+            "version": "2"
+          },
+          {
+            "startPos": 44,
+            "endPos": 48,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-08-21T18:01:39.344Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "AUG 29, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        },
+        {
+          "sashTypeId": 32,
+          "sashTypeName": "Video Tour",
+          "sashTypeColor": "#7556F2"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-08-29T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9426262,
+            "longitude": -80.1084407
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "200 Kingfisher Dr #157",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 0B3",
+        "location": "Mono",
+        "unitNumber": "#157",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "151079994",
+      "listingId": "204530418",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12237448",
+      "url": "/on/mono/18-Mitchell-Cres-L9W-2Z2/home/151079994",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 4,
+      "baths": 4.0,
+      "priceInfo": {
+        "amount": "1490000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1490000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 3,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-06-21T04:21:05.195Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "722",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "JUN 23, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-06-23T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 4.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.931404,
+            "longitude": -80.0632081
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "18 Mitchell Cres",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 6W6",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "151097325",
+      "listingId": "200636740",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12033948",
+      "url": "/on/mono/7-Blue-Heron-Dr-L9W-5K4/home/151097325",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 4,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "1960000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1960000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 30,
+            "version": "5"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-03-21T14:35:04.827Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "32541",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "MAY 16, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-05-16T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.938874,
+            "longitude": -80.0696881
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "7 Blue Heron Dr",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 5K5",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "151098297",
+      "listingId": "201091388",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12061274",
+      "url": "/on/mono/1-Hurontario-St-L9W-1Y8/home/151098297",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 3,
+      "baths": 2.0,
+      "priceInfo": {
+        "amount": "718300",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "718300"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "3"
+          },
+          {
+            "startPos": 1,
+            "endPos": 49,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-04-04T04:24:09.040Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "9900",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "JUN 4, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-06-04T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 2.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9232312,
+            "longitude": -80.0809709
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "1 Hurontario St",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 1Y8",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "151098524",
+      "listingId": "210983684",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12709178",
+      "url": "/on/mono/35-Hawthorne-Rd-L9V-1A2/home/151098524",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 4,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "1300000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1300000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "4"
+          },
+          {
+            "startPos": 1,
+            "endPos": 48,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2026-01-19T16:37:01.484Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "23846",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "JAN 30, 2026",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2026-01-30T08:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9497169,
+            "longitude": -80.1083841
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "35 Hawthorne Rd",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 6G6",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "151106168",
+      "listingId": "197256239",
+      "listingDisplayLevel": 1,
+      "mlsId": "X11887641",
+      "url": "/on/mono/307466-Hockley-Rd-L9W-6N8/home/151106168",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 6,
+      "baths": 6.0,
+      "priceInfo": {
+        "amount": "2100000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "2100000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "4"
+          },
+          {
+            "startPos": 1,
+            "endPos": 38,
+            "version": "3"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2024-12-10T15:09:19.547Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "395678",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "MAY 9, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-05-09T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 6.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9787483,
+            "longitude": -80.0494617
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "307466 Hockley Rd",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 6N8",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "151112824",
+      "listingId": "200810598",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12043841",
+      "url": "/on/mono/34-Headwaters-Lane-L9W/home/151112824",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 5,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "1810000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1810000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "9"
+          },
+          {
+            "startPos": 1,
+            "endPos": 29,
+            "version": "7"
+          },
+          {
+            "startPos": 30,
+            "endPos": 31,
+            "version": "4"
+          },
+          {
+            "startPos": 32,
+            "endPos": 33,
+            "version": "3"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-03-26T21:07:47.429Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "27249",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "AUG 1, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-08-01T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9348803,
+            "longitude": -80.0721324
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "34 Headwaters Lane",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 5K3",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "151115400",
+      "listingId": "204362204",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12225650",
+      "url": "/on/mono/200-Kingfisher-Dr-L9W-0B3/unit-87/home/151115400",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 3,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "1350000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1350000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "2"
+          },
+          {
+            "startPos": 1,
+            "endPos": 40,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-06-17T14:38:40.188Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "5380",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "JUN 29, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-06-29T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9409939,
+            "longitude": -80.1099161
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "200 Kingfisher Dr #87",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 0B3",
+        "location": "Mono",
+        "unitNumber": "#87",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "151121583",
+      "listingId": "203959243",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12214839",
+      "url": "/on/mono/5-Madill-Dr-L9W-2Z1/home/151121583",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 4,
+      "baths": 5.0,
+      "priceInfo": {
+        "amount": "1257000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1257000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "3"
+          },
+          {
+            "startPos": 1,
+            "endPos": 49,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-06-12T11:51:04.796Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "37854",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "SEP 16, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-09-16T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 5.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9973412,
+            "longitude": -80.1208838
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "5 Madill Dr",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 6G3",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "151166677",
+      "listingId": "206457564",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12349140",
+      "url": "/on/mono/68-Madill-Dr-L9W-2Z1/home/151166677",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 5,
+      "baths": 4.0,
+      "priceInfo": {
+        "amount": "1640000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1640000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "2"
+          },
+          {
+            "startPos": 1,
+            "endPos": 49,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-08-17T13:41:04.134Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "1",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "AUG 28, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-08-28T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 4.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.99659,
+            "longitude": -80.12401
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "68 Madill Dr",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 6G4",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "151245323",
+      "listingId": "204726922",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12247532",
+      "url": "/on/mono/24-Old-Oak-Lane-L9W-4A4/home/151245323",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 4,
+      "baths": 4.0,
+      "priceInfo": {
+        "amount": "1325000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1325000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "4"
+          },
+          {
+            "startPos": 1,
+            "endPos": 46,
+            "version": "3"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-06-26T17:21:29.886Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "20362",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "SEP 23, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-09-23T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 4.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.92733,
+            "longitude": -80.07101
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "24 Old Oak Lane",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 4A4",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "151249980",
+      "listingId": "200182665",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12004753",
+      "url": "/on/mono/713094-1st-Line-EHS-L9W-2Z2/home/151249980",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 7,
+      "baths": 5.0,
+      "priceInfo": {
+        "amount": "1660000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1660000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "D"
+          },
+          {
+            "startPos": 1,
+            "endPos": 41,
+            "version": "C"
+          },
+          {
+            "startPos": 42,
+            "endPos": 45,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-03-06T18:03:44.038Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "27638",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "JUN 24, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-06-24T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 5.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.93437,
+            "longitude": -80.06695
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "713094 1st Line Ehs Line",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 5K4",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "151251124",
+      "listingId": "211117385",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12724728",
+      "url": "/on/mono/200-Kingfisher-Dr-L9W-0B3/unit-94/home/151251124",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 3,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "1160000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1160000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "3"
+          },
+          {
+            "startPos": 1,
+            "endPos": 33,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2026-01-23T17:33:07.569Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "JAN 30, 2026",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2026-01-30T08:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9409939,
+            "longitude": -80.1099161
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "200 Kingfisher Dr #94",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 0B3",
+        "location": "Mono",
+        "unitNumber": "#94",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "151252010",
+      "listingId": "207940211",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12434943",
+      "url": "/on/mono/200-Kingfisher-Dr-L9W-0B3/unit-47/home/151252010",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 4,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "1100000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1100000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "3"
+          },
+          {
+            "startPos": 1,
+            "endPos": 39,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-09-30T18:02:37.380Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "6572",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "OCT 28, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-10-28T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9409939,
+            "longitude": -80.1099161
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "200 Kingfisher Dr #47",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 0B3",
+        "location": "Mono",
+        "unitNumber": "#47",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "151446884",
+      "listingId": "202315132",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12128389",
+      "url": "/on/mono/715380-1st-Line-EHS-L9W-2Z1/home/151446884",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1,
+        "hasVirtualTour": true
+      },
+      "propertyType": 6,
+      "beds": 4,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "2000000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "2000000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "7"
+          },
+          {
+            "startPos": 1,
+            "endPos": 39,
+            "version": "6"
+          },
+          {
+            "startPos": 40,
+            "endPos": 44,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-05-06T19:46:52.138Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "7",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "JUL 24, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        },
+        {
+          "sashTypeId": 32,
+          "sashTypeName": "Video Tour",
+          "sashTypeColor": "#7556F2"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-07-24T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 44.06698,
+            "longitude": -80.09972
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "715380 1st Line Ehs N/A",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9V 1A9",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "160088883",
+      "listingId": "204727813",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12247572",
+      "url": "/on/mono/873273-5-Line-E-L9W-6A4/home/160088883",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 5,
+      "baths": 6.0,
+      "priceInfo": {
+        "amount": "1950000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1950000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 49,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-06-26T17:38:35.133Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "594768",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "DEC 17, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-12-17T08:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 6.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9649479,
+            "longitude": -80.0061395
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "873273 Fifth Line",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 6A4",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "160271002",
+      "listingId": "209379629",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12550956",
+      "url": "/on/mono/714550-1st-Line-EHS-L9W-5T6/home/160271002",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 4,
+      "baths": 4.0,
+      "priceInfo": {
+        "amount": "1505000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1505000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "2"
+          },
+          {
+            "startPos": 1,
+            "endPos": 45,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-11-17T16:07:37.318Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "10",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "DEC 30, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-12-30T08:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 4.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 44.027885,
+            "longitude": -80.090132
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "714550 1st Line Ehs N/A",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 5T6",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "161194592",
+      "listingId": "204943400",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12254037",
+      "url": "/on/mono/18-Meek-Ave-L9W-6W8/home/161194592",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 4,
+      "baths": 4.0,
+      "priceInfo": {
+        "amount": "1575000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1575000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 29,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-06-30T23:51:17.323Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "12484",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "JUL 11, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-07-11T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 4.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.935542,
+            "longitude": -80.066196
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "18 Meek Ave",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 6W8",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "166656361",
+      "listingId": "207932428",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12434266",
+      "url": "/on/mono/428308-25-Sideroad-L9W-2Y8/home/166656361",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 5,
+      "baths": 6.0,
+      "priceInfo": {
+        "amount": "3200000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "3200000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 44,
+            "version": "5"
+          },
+          {
+            "startPos": 45,
+            "endPos": 46,
+            "version": "4"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-09-30T14:56:58.703Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "29",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "MAR 6, 2026",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2026-03-06T08:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 6.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 44.0810438,
+            "longitude": -80.0094298
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "428308 25th Side Road",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9V 1G2",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "166726559",
+      "listingId": "205422688",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12288042",
+      "url": "/on/mono/207109-Ontario-9-L9W-1Y4/home/166726559",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1,
+        "hasVirtualTour": true
+      },
+      "propertyType": 6,
+      "beds": 3,
+      "baths": 2.0,
+      "priceInfo": {
+        "amount": "900000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "900000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "4"
+          },
+          {
+            "startPos": 1,
+            "endPos": 31,
+            "version": "3"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-07-16T14:31:15.090Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "20647",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "AUG 16, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        },
+        {
+          "sashTypeId": 32,
+          "sashTypeName": "Video Tour",
+          "sashTypeColor": "#7556F2"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-08-16T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 2.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9257843,
+            "longitude": -80.0676434
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "207109 Hwy 9 N/A",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 1Y4",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "166735407",
+      "listingId": "202098437",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12114785",
+      "url": "/on/mono/993608-Mono-Adjala-Tline-L0N-1P0/home/166735407",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 4,
+      "baths": 2.0,
+      "priceInfo": {
+        "amount": "1607500",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1607500"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 38,
+            "version": "3"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-05-01T12:27:19.366Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "448971",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "AUG 15, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-08-15T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 2.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 44.00387,
+            "longitude": -79.96464
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "993608 Mono-adjala Townline N/A",
+        "city": "Palgrave",
+        "state": "ON",
+        "zip": "L9W 6H4",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "169481019",
+      "listingId": "205517312",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12294572",
+      "url": "/on/mono/12-Goulding-Lane-L9W-2Z2/home/169481019",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 5,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "1820000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1820000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "4"
+          },
+          {
+            "startPos": 1,
+            "endPos": 35,
+            "version": "3"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-07-18T18:47:23.374Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "276966",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "SEP 28, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-09-28T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.968225,
+            "longitude": -79.9730806
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "12 Goulding Lane",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 6H2",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "172729389",
+      "listingId": "209170369",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12526308",
+      "url": "/on/mono/594228-Blind-Line-L9W-2Z1/home/172729389",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 5,
+      "baths": 4.0,
+      "priceInfo": {
+        "amount": "1549999",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1549999"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "3"
+          },
+          {
+            "startPos": 1,
+            "endPos": 46,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-11-09T02:11:04.867Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "2",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "DEC 19, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-12-19T08:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 4.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9911123,
+            "longitude": -80.1331489
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "594228 Blind Line",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 5N2",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "172748581",
+      "listingId": "203147581",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12175548",
+      "url": "/on/mono/248400-5th-Sideroad-L9W-2Z2/home/172748581",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 4,
+      "baths": 4.0,
+      "priceInfo": {
+        "amount": "1740000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1740000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "6"
+          },
+          {
+            "startPos": 1,
+            "endPos": 48,
+            "version": "4"
+          },
+          {
+            "startPos": 49,
+            "endPos": 49,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-05-27T14:57:54.043Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "10",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "SEP 15, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-09-15T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 4.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.97416,
+            "longitude": -79.97745
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "248400 5 Side Road",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 6L2",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "174608433",
+      "listingId": "208991703",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12499868",
+      "url": "/on/mono/28-Meek-Ave-L9W-2Z2/home/174608433",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 6,
+      "baths": 6.0,
+      "priceInfo": {
+        "amount": "1550000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1550000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 36,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-11-01T19:53:19.211Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "87651",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "DEC 17, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-12-17T08:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 6.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9367434,
+            "longitude": -80.0655849
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "28 Meek Ave",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L0W 2Z2",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "176824892",
+      "listingId": "204325307",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12222531",
+      "url": "/on/mono/835526-4th-Line-Ehs-L9W-2Y8/home/176824892",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1,
+        "hasVirtualTour": true
+      },
+      "propertyType": 7,
+      "beds": 4,
+      "baths": 2.0,
+      "priceInfo": {
+        "amount": "1950000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1950000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "2"
+          },
+          {
+            "startPos": 1,
+            "endPos": 32,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-06-16T13:01:09.076Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "95",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "JUL 4, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        },
+        {
+          "sashTypeId": 32,
+          "sashTypeName": "Video Tour",
+          "sashTypeColor": "#7556F2"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-07-04T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 2.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 44.0914574,
+            "longitude": -80.0547755
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "835526 4th Line",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9V 1B6",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "176842698",
+      "listingId": "200063724",
+      "listingDisplayLevel": 1,
+      "mlsId": "X11996131",
+      "url": "/on/mono/308450-Hockley-Rd-L9W-2Z2/home/176842698",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 3,
+      "baths": 1.0,
+      "priceInfo": {
+        "amount": "935000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "935000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "8"
+          },
+          {
+            "startPos": 1,
+            "endPos": 18,
+            "version": "7"
+          },
+          {
+            "startPos": 19,
+            "endPos": 21,
+            "version": "6"
+          },
+          {
+            "startPos": 22,
+            "endPos": 24,
+            "version": "5"
+          },
+          {
+            "startPos": 25,
+            "endPos": 25,
+            "version": "4"
+          },
+          {
+            "startPos": 26,
+            "endPos": 28,
+            "version": "3"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-03-03T03:19:37.440Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "43560",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "APR 16, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-04-16T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 1.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 44.012178,
+            "longitude": -79.9855441
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "308450 Hockley Rd",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 2Z2",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "176842785",
+      "listingId": "209609151",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12585566",
+      "url": "/on/mono/994290-Mono-Adjala-Tline-L0G-1L0/home/176842785",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1,
+        "hasVirtualTour": true
+      },
+      "propertyType": 6,
+      "beds": 2,
+      "baths": 2.0,
+      "priceInfo": {
+        "amount": "939000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "939000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "2"
+          },
+          {
+            "startPos": 1,
+            "endPos": 40,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-11-28T17:57:05.261Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "2",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "FEB 2, 2026",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        },
+        {
+          "sashTypeId": 32,
+          "sashTypeName": "Video Tour",
+          "sashTypeColor": "#7556F2"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2026-02-02T08:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 2.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 44.03047,
+            "longitude": -79.97121
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "994290 Mono Adjala Tline",
+        "city": "Loretto",
+        "state": "ON",
+        "zip": "L9W 6H5",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "176843598",
+      "listingId": "202239153",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12122117",
+      "url": "/on/mono/308304-Hockley-Rd-L9W-2Z2/home/176843598",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 1,
+      "baths": 1.0,
+      "priceInfo": {
+        "amount": "550000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "550000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "3"
+          },
+          {
+            "startPos": 1,
+            "endPos": 24,
+            "version": "2"
+          },
+          {
+            "startPos": 25,
+            "endPos": 31,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-05-03T14:53:29.885Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "1",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "MAY 22, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-05-22T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 1.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 44.0042553,
+            "longitude": -79.9993618
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "308304 Hockley Rd",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 6N4",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "176843972",
+      "listingId": "200993078",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12055172",
+      "url": "/on/mono/307246-Hockley-Rd-L9W-6N7/home/176843972",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 4,
+      "baths": 4.0,
+      "priceInfo": {
+        "amount": "1420000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1420000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 49,
+            "version": "7"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-04-01T21:57:30.010Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "3",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "JUN 6, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-06-06T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 4.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9654809,
+            "longitude": -80.0695761
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "307246 Hockley Rd",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 6N7",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "176844673",
+      "listingId": "205418862",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12287516",
+      "url": "/on/mono/795167-3rd-Line-EHS-L0N-1S0/home/176844673",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 4,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "965000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "965000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "3"
+          },
+          {
+            "startPos": 1,
+            "endPos": 41,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-07-16T11:55:21.620Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "43853",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "AUG 6, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-08-06T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 44.05341,
+            "longitude": -80.06318
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "795167 Third Line Ehs Line",
+        "city": "Shelburne",
+        "state": "ON",
+        "zip": "L9W 5Y2",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "176845248",
+      "listingId": "201833043",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12097849",
+      "url": "/on/mono/164-Carolina-Cres-L0N-1L0/home/176845248",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 2,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "1169000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1169000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "2"
+          },
+          {
+            "startPos": 1,
+            "endPos": 32,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-04-23T13:07:32.221Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "516",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "MAY 7, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-05-07T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9419938,
+            "longitude": -80.1093054
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "164 Carolina Cres S",
+        "city": "Laurel",
+        "state": "ON",
+        "zip": "L9W 0B3",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "179361299",
+      "listingId": "201438203",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12081198",
+      "url": "/on/mono/426155-25-Sideroad-L0N-1S5/home/179361299",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 5,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "1550000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1550000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "5"
+          },
+          {
+            "startPos": 1,
+            "endPos": 44,
+            "version": "4"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-04-14T16:03:24.244Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "255360",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "JUL 14, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-07-14T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 44.05188,
+            "longitude": -80.14524
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "426155 25th Sideroad N/A",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9V 1E3",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "180488605",
+      "listingId": "207107210",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12375399",
+      "url": "/on/mono/954498-7-Line-EHS-L9W-2Z2/home/180488605",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 7,
+      "beds": 5,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "2385000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "2385000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "2"
+          },
+          {
+            "startPos": 1,
+            "endPos": 35,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-09-02T20:07:01.399Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "1839869",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "OCT 15, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-10-15T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 44.0454172,
+            "longitude": -79.9931816
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "954498 7th Line Ehs N/A",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 6G1",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "192185316",
+      "listingId": "206180395",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12330139",
+      "url": "/on/mono/1-Island-Lake-Rd-L9W-5K6/home/192185316",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 3,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "1980000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1980000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 42,
+            "version": "4"
+          },
+          {
+            "startPos": 43,
+            "endPos": 46,
+            "version": "3"
+          },
+          {
+            "startPos": 47,
+            "endPos": 48,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-08-07T15:27:21.672Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "DEC 19, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-12-19T08:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9382351,
+            "longitude": -80.070823
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "1 Island Lake Rd",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 5K6",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "192235707",
+      "listingId": "211128163",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12726060",
+      "url": "/on/mono/246044-County-Road-16-L9W-6K2/home/192235707",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 7,
+      "beds": 5,
+      "baths": 2.0,
+      "priceInfo": {
+        "amount": "1700000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1700000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "3"
+          },
+          {
+            "startPos": 1,
+            "endPos": 27,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2026-01-23T21:47:15.165Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "14",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "FEB 25, 2026",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2026-02-25T08:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 2.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9401043,
+            "longitude": -80.132055
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "246044 County Rd 16 Rd",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 6K2",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "193640797",
+      "listingId": "201007832",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12055875",
+      "url": "/on/mono/348557-15-Sideroad-N-A-L9W-6S8/home/193640797",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 4,
+      "baths": 2.0,
+      "priceInfo": {
+        "amount": "1250000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1250000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "2"
+          },
+          {
+            "startPos": 1,
+            "endPos": 26,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-04-02T13:13:54.870Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "APR 16, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-04-16T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 2.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 44.0323,
+            "longitude": -79.9726
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "348557 15 Sideroad N/A",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 6S8",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "194991370",
+      "listingId": "202907157",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12158413",
+      "url": "/on/mono/953371-7-Line-E-L9W-6E8/home/194991370",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 4,
+      "baths": 2.0,
+      "priceInfo": {
+        "amount": "1100000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1100000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "3"
+          },
+          {
+            "startPos": 1,
+            "endPos": 49,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-05-20T14:01:14.131Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "10",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "JUL 12, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-07-12T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 2.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9915668,
+            "longitude": -79.9745234
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "953371 7th Line",
+        "city": "Lucille",
+        "state": "ON",
+        "zip": "L9W 6E8",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "195251905",
+      "listingId": "212373116",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12806992",
+      "url": "/on/mono/16-Bayberry-Rd-L9V-1A2/home/195251905",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 4,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "1525000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1525000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2026-02-20T19:31:10.674Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "38838",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "MAR 30, 2026",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2026-03-30T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9497028,
+            "longitude": -80.1129963
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "16 Bayberry Rd",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 6G6",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "196046151",
+      "listingId": "203847571",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12211923",
+      "url": "/on/mono/247531-5th-Sideroad-L9W-2Z2/home/196046151",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 4,
+      "baths": 4.0,
+      "priceInfo": {
+        "amount": "1450000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1450000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "4"
+          },
+          {
+            "startPos": 1,
+            "endPos": 43,
+            "version": "3"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-06-11T13:16:19.065Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "8",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "JUN 19, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-06-19T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 4.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9747984,
+            "longitude": -79.9746454
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "247531 5 Side Road",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 6K8",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "196070385",
+      "listingId": "204060385",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12217961",
+      "url": "/on/mono/248504-5th-Sideroad-L9W-2Z2/home/196070385",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 3,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "1475000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1475000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "3"
+          },
+          {
+            "startPos": 1,
+            "endPos": 47,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-06-13T04:57:17.209Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "9",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "SEP 13, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-09-13T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9766163,
+            "longitude": -79.9650648
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "248504 5 Sideroad N/A",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 6L3",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "196278150",
+      "listingId": "207149720",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12378985",
+      "url": "/on/mono/388055-Mono-Centre-Rd-L9W-6V8/home/196278150",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1,
+        "hasVirtualTour": true
+      },
+      "propertyType": 6,
+      "beds": 3,
+      "baths": 2.0,
+      "priceInfo": {
+        "amount": "960000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "960000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 21,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-09-03T21:21:28.222Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "14",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "NOV 12, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        },
+        {
+          "sashTypeId": 32,
+          "sashTypeName": "Video Tour",
+          "sashTypeColor": "#7556F2"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-11-12T08:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 2.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 44.0479691,
+            "longitude": -80.0381878
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "388055 Mono Center Rd",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 6V8",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "196614276",
+      "listingId": "205729072",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12307480",
+      "url": "/on/mono/794008-3rd-Line-E-L9W-5X6/home/196614276",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1,
+        "hasVirtualTour": true
+      },
+      "propertyType": 6,
+      "beds": 1,
+      "baths": 1.0,
+      "priceInfo": {
+        "amount": "650000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "650000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "4"
+          },
+          {
+            "startPos": 1,
+            "endPos": 42,
+            "version": "3"
+          },
+          {
+            "startPos": 43,
+            "endPos": 45,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-07-25T20:03:29.667Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "JAN 14, 2026",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        },
+        {
+          "sashTypeId": 32,
+          "sashTypeName": "Video Tour",
+          "sashTypeColor": "#7556F2"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2026-01-14T08:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 1.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9477593,
+            "longitude": -80.0362317
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "794008 3rd Line",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 5Y7",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "197885411",
+      "listingId": "207447533",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12399740",
+      "url": "/on/mono/487502-30-Side-Rd-L0N-1M0/home/197885411",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 3,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "840000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "840000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "3"
+          },
+          {
+            "startPos": 1,
+            "endPos": 35,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-09-12T14:52:19.526Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "2",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "SEP 16, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-09-16T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 44.0978,
+            "longitude": -80.06035
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "487502 30 Sideroad N/A",
+        "city": "Mansfield",
+        "state": "ON",
+        "zip": "L9V 1H2",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "198505951",
+      "listingId": "208190986",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12450386",
+      "url": "/on/mono/833564-4th-Line-E-H-S-L9W-5Z4/home/198505951",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 5,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "3200000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "3200000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "3"
+          },
+          {
+            "startPos": 1,
+            "endPos": 47,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-10-07T19:47:07.659Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "2",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "JAN 6, 2026",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2026-01-06T08:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9822916,
+            "longitude": -80.0289638
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "833564 4th Line Ehs N/A",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 5Z4",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "198601262",
+      "listingId": "208405940",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12462572",
+      "url": "/on/mono/286351-10th-Side-Rd-L9W-2Y8/home/198601262",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 3,
+      "baths": 2.0,
+      "priceInfo": {
+        "amount": "985000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "985000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "2"
+          },
+          {
+            "startPos": 1,
+            "endPos": 40,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-10-15T14:21:17.092Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "32670",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "DEC 10, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-12-10T08:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 2.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9758788,
+            "longitude": -80.0982807
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "286351 10th Side Road N/A",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 6P7",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "199627530",
+      "listingId": "203104789",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12171122",
+      "url": "/ON/Mono/23A-Madill-Dr-L9W-6G3/home/199627530",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 6,
+      "beds": 3,
+      "baths": 3.0,
+      "priceInfo": {
+        "amount": "1365000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1365000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "3"
+          },
+          {
+            "startPos": 1,
+            "endPos": 49,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-05-24T12:50:58.342Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "58032",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "JUN 30, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-06-30T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 3.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9949911,
+            "longitude": -80.1179594
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "23A Madill Dr",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 6G3",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "199713856",
+      "listingId": "210079990",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12640464",
+      "url": "/on/mono/715188-1st-Line-N-A-E-L9W-5T7/home/199713856",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1,
+        "hasVirtualTour": true
+      },
+      "propertyType": 6,
+      "beds": 3,
+      "baths": 2.0,
+      "priceInfo": {
+        "amount": "1125000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1125000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "3"
+          },
+          {
+            "startPos": 1,
+            "endPos": 37,
+            "version": "2"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-12-18T14:47:04.569Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "22",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "JAN 5, 2026",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        },
+        {
+          "sashTypeId": 32,
+          "sashTypeName": "Video Tour",
+          "sashTypeColor": "#7556F2"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2026-01-05T08:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {
+        "computedTotalBaths": 2.0
+      },
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 44.049275,
+            "longitude": -80.099514
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "715188 1st Line N/A E",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 5T7",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "175049046",
+      "listingId": "205090759",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12261930",
+      "url": "/on/mono/955366-7-Line-E-L9W-2Y8/home/175049046",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 8,
+      "priceInfo": {
+        "amount": "730000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "730000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "2"
+          },
+          {
+            "startPos": 1,
+            "endPos": 3,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-07-04T13:17:10.358Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "4",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "AUG 1, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-08-01T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {},
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 44.0881544,
+            "longitude": -80.0038551
+          },
+          "displayLevel": 1
+        },
+        "formattedStreetLine": "955366 7th Line E",
+        "city": "Orangeville",
+        "state": "ON",
+        "zip": "L9W 1C7",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "187523329",
+      "listingId": "202111145",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12115809",
+      "url": "/on/mono/9999-Blind-Line-L9W-5N3/home/187523329",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 8,
+      "priceInfo": {
+        "amount": "1299000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "1299000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "3"
+          },
+          {
+            "startPos": 1,
+            "endPos": 16,
+            "version": "1"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-05-01T14:58:32.058Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "48",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "JUL 16, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-07-16T07:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {},
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 44.01328,
+            "longitude": -80.1381368
+          },
+          "displayLevel": 5
+        },
+        "formattedStreetLine": "9999 Blind Line",
+        "city": "Dufferin County",
+        "state": "ON",
+        "zip": "L9W 5N3",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  },
+  {
+    "homeData": {
+      "propertyId": "193434059",
+      "listingId": "208050027",
+      "listingDisplayLevel": 1,
+      "mlsId": "X12442943",
+      "url": "/on/mono/Pt-Lt5-Concession-8-N-A-Unknown/home/193434059",
+      "dataSourceId": "248",
+      "marketId": "78",
+      "mlsStatusId": "4159",
+      "servicePolicyId": "4",
+      "listingMetadata": {
+        "searchStatus": 4,
+        "listingType": 1
+      },
+      "propertyType": 8,
+      "priceInfo": {
+        "amount": "400000",
+        "displayLevel": 1,
+        "priceType": 2,
+        "homePrice": {
+          "displayLevel": 1,
+          "int64Value": "400000"
+        }
+      },
+      "sqftInfo": {
+        "displayLevel": 5
+      },
+      "photosInfo": {
+        "photoRanges": [
+          {
+            "startPos": 0,
+            "endPos": 0,
+            "version": "5"
+          },
+          {
+            "startPos": 1,
+            "endPos": 12,
+            "version": "4"
+          }
+        ],
+        "primaryPhotoDisplayLevel": 1,
+        "secondaryPhotoDisplayLevel": 1
+      },
+      "daysOnMarket": {
+        "listingAddedDate": "2025-10-03T15:31:03.709Z",
+        "displayLevel": 1
+      },
+      "timezone": "America/Toronto",
+      "yearBuilt": {
+        "displayLevel": 1
+      },
+      "lotSize": {
+        "amount": "271945",
+        "displayLevel": 1
+      },
+      "hoaDues": {
+        "displayLevel": 1
+      },
+      "sashes": [
+        {
+          "lastSaleDate": "DEC 5, 2025",
+          "sashTypeId": 1,
+          "sashTypeName": "Sold",
+          "sashTypeColor": "#5D8ACB"
+        }
+      ],
+      "brokers": {},
+      "lastSaleData": {
+        "lastSoldDate": "2025-12-05T08:00:00Z"
+      },
+      "personalization": {},
+      "insights": {},
+      "showMlsId": false,
+      "directAccessInfo": {
+        "supportPhoneNumber": "N/A",
+        "timeZone": {
+          "id": 7,
+          "timeZoneIdString": "US/Pacific",
+          "olsonTimeZoneIdString": "America/Los_Angeles",
+          "description": "Pacific Time in the United States"
+        }
+      },
+      "bathInfo": {},
+      "addressInfo": {
+        "centroid": {
+          "centroid": {
+            "latitude": 43.9462956,
+            "longitude": -80.1042868
+          },
+          "displayLevel": 5
+        },
+        "formattedStreetLine": "Pt Lt5 Concession 8 N/A",
+        "city": "Mono",
+        "state": "ON",
+        "zip": "L9W 6E8",
+        "location": "Mono",
+        "streetlineDisplayLevel": 1,
+        "unitNumberDisplayLevel": 1,
+        "locationDisplayLevel": 1,
+        "countryCode": 2,
+        "postalCodeDisplayLevel": 1
+      }
+    },
+    "defaultExtension": {}
+  }
+]
